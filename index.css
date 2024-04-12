@@ -1,0 +1,144 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather';
+
+}
+
+body{
+    width: 100%;
+    background-color: #F6F6EA;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 85px;
+
+}
+
+nav{
+    display: flex;
+    gap: 24px;
+    margin-top: 20px;
+}
+
+nav>a{
+    font-size: 24px;
+    color: #BFA57D;
+}
+
+.Diferent{
+    color:#895D2D ;
+}
+
+.language{
+    width: 121px;
+    height: 50px;
+    color: black;
+    background-color: white;
+    border: #DEDEDE solid 2px;
+}
+
+button{
+   width: 170px;
+   height: 50px;
+   color: #C4C4C4;
+   background-color: #895D2D;
+   border: #895D2D solid 1px; 
+}
+
+.ButtonH{
+    display: flex;
+    gap: 15px;
+    margin-top: 10px;
+}
+/* header concluido */
+
+main {
+    width: 100%;
+    height: 4694px
+}
+
+
+main > img{
+
+    width: 100%;
+}
+
+h1{
+    font-size: 55px;
+    color: #895D2D;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.navMain{
+    display: flex;
+    gap: 55px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.brown{
+    color: #895D2D;
+}
+
+.chandelier{
+    width: 570px;
+    height: 427px;
+    padding-right: 100px;
+}
+
+.TheSpaEtiquette1 {
+    width:699px ;
+    height: 427px;
+    color: #3B4248;
+    margin-top: 200px;
+    background-color:#BFA57D;
+    position: absolute;
+    z-index: 1;
+    gap: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chandelier2 {
+    width: 570.95px;
+    height: 426.7px;
+    position: relative;
+    z-index: 2;
+    padding-right: 1100px;
+}
+
+
+.TheSpaEtiquette>h1{
+    color: #3B4248;
+    font-size: 35px;
+}
+
+
+.container-text {
+    margin-top: 150px;
+    gap: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card2 {
+    width: 698.48px;
+    height: 800px;
+    background-color: #895D2D;
+    color: white;  
+}
+
+.chegada {
+    padding-top: 140px;
+}
+
