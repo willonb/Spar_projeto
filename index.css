@@ -158,6 +158,7 @@ h1{
 
 
 .container-text {
+    padding-left: 350px;
     margin-top: 150px;
     gap: 140px;
     display: flex;
